@@ -1,13 +1,7 @@
 #include <Wire.h>
 #include <rgb_lcd.h>
 
-/*
-Mert Koçoğlu
-Arda Ali Altıncı
-Mustafa Vanlıoğlu
-Yüşa Emir Metin
-Yaşar Düzgün
-*/
+
 
 
 rgb_lcd lcd;
